@@ -12,3 +12,9 @@ Here is my application which is used to convert numbers between these above syst
 ## Note:
   I hope you all familiar with dynos. In order to preserve dynos from burning out heroku puts your app to sleep after 30 minutes of inactivity. So this is what makes the app slow to load.
 
+
+![](https://github.com/Annamalaisaravanan/code-converter-app/blob/main/images/stream_1.jpg)
+
+![](https://github.com/Annamalaisaravanan/code-converter-app/blob/main/images/stream_2.jpg)
+
+![](https://github.com/Annamalaisaravanan/code-converter-app/blob/main/images/stream_3.jpg)
